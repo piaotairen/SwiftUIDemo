@@ -14,6 +14,55 @@
 		476BE19E1BEC576400314379 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 476BE19C1BEC576400314379 /* LaunchScreen.storyboard */; };
 		476BE1A91BEC576400314379 /* SwiftUIDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 476BE1A81BEC576400314379 /* SwiftUIDemoTests.swift */; };
 		476BE1B41BEC576400314379 /* SwiftUIDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 476BE1B31BEC576400314379 /* SwiftUIDemoUITests.swift */; };
+		476BE1C21BEC57EF00314379 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 476BE1C11BEC57EF00314379 /* MediaPlayer.framework */; };
+		476BE2041BEC5A9300314379 /* 专辑图.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1D91BEC5A9300314379 /* 专辑图.jpg */; };
+		476BE2051BEC5A9300314379 /* audio_bg_down-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1DA1BEC5A9300314379 /* audio_bg_down-Decoded.png */; };
+		476BE2061BEC5A9300314379 /* audio_bg_down@2x-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1DB1BEC5A9300314379 /* audio_bg_down@2x-Decoded.png */; };
+		476BE2071BEC5A9300314379 /* audio_bg_up-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1DC1BEC5A9300314379 /* audio_bg_up-Decoded.png */; };
+		476BE2081BEC5A9300314379 /* audio_bg_up@2x-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1DD1BEC5A9300314379 /* audio_bg_up@2x-Decoded.png */; };
+		476BE2091BEC5A9300314379 /* audio_bg-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1DE1BEC5A9300314379 /* audio_bg-Decoded.png */; };
+		476BE20A1BEC5A9300314379 /* audio_btn_back_h-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1DF1BEC5A9300314379 /* audio_btn_back_h-Decoded.png */; };
+		476BE20B1BEC5A9300314379 /* audio_btn_back_n-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1E01BEC5A9300314379 /* audio_btn_back_n-Decoded.png */; };
+		476BE20C1BEC5A9300314379 /* audio_btn_call_hover-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1E11BEC5A9300314379 /* audio_btn_call_hover-Decoded.png */; };
+		476BE20D1BEC5A9300314379 /* audio_btn_call-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1E21BEC5A9300314379 /* audio_btn_call-Decoded.png */; };
+		476BE20E1BEC5A9300314379 /* audio_btn_love_h-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1E31BEC5A9300314379 /* audio_btn_love_h-Decoded.png */; };
+		476BE20F1BEC5A9300314379 /* audio_btn_love-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1E41BEC5A9300314379 /* audio_btn_love-Decoded.png */; };
+		476BE2101BEC5A9300314379 /* audio_btn_next_h-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1E51BEC5A9300314379 /* audio_btn_next_h-Decoded.png */; };
+		476BE2111BEC5A9300314379 /* audio_btn_next_n-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1E61BEC5A9300314379 /* audio_btn_next_n-Decoded.png */; };
+		476BE2121BEC5A9300314379 /* audio_btn_pause_h-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1E71BEC5A9300314379 /* audio_btn_pause_h-Decoded.png */; };
+		476BE2131BEC5A9300314379 /* audio_btn_pause_n-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1E81BEC5A9300314379 /* audio_btn_pause_n-Decoded.png */; };
+		476BE2141BEC5A9300314379 /* audio_btn_play_h-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1E91BEC5A9300314379 /* audio_btn_play_h-Decoded.png */; };
+		476BE2151BEC5A9300314379 /* audio_btn_play_n-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1EA1BEC5A9300314379 /* audio_btn_play_n-Decoded.png */; };
+		476BE2161BEC5A9300314379 /* audio_btn_pre_h-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1EB1BEC5A9300314379 /* audio_btn_pre_h-Decoded.png */; };
+		476BE2171BEC5A9300314379 /* audio_btn_pre_n-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1EC1BEC5A9300314379 /* audio_btn_pre_n-Decoded.png */; };
+		476BE2181BEC5A9300314379 /* audio_cover_bg-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1ED1BEC5A9300314379 /* audio_cover_bg-Decoded.png */; };
+		476BE2191BEC5A9300314379 /* banner_close_btn-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1EE1BEC5A9300314379 /* banner_close_btn-Decoded.png */; };
+		476BE21A1BEC5A9300314379 /* chenyixun.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1EF1BEC5A9300314379 /* chenyixun.jpg */; };
+		476BE21B1BEC5A9300314379 /* com_slider_max_l-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1F01BEC5A9300314379 /* com_slider_max_l-Decoded.png */; };
+		476BE21C1BEC5A9300314379 /* com_slider_max_r-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1F11BEC5A9300314379 /* com_slider_max_r-Decoded.png */; };
+		476BE21D1BEC5A9300314379 /* com_slider_min_l-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1F21BEC5A9300314379 /* com_slider_min_l-Decoded.png */; };
+		476BE21E1BEC5A9300314379 /* com_slider_min_r-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1F31BEC5A9300314379 /* com_slider_min_r-Decoded.png */; };
+		476BE21F1BEC5A9300314379 /* com_thumb_max_h-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1F41BEC5A9300314379 /* com_thumb_max_h-Decoded.png */; };
+		476BE2201BEC5A9300314379 /* com_thumb_max_n-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1F51BEC5A9300314379 /* com_thumb_max_n-Decoded.png */; };
+		476BE2211BEC5A9300314379 /* Default-568h.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1F61BEC5A9300314379 /* Default-568h.png */; };
+		476BE2221BEC5A9300314379 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1F71BEC5A9300314379 /* Default-568h@2x.png */; };
+		476BE2231BEC5A9300314379 /* Default-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1F81BEC5A9300314379 /* Default-Decoded.png */; };
+		476BE2241BEC5A9300314379 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1F91BEC5A9300314379 /* Default.png */; };
+		476BE2251BEC5A9300314379 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1FA1BEC5A9300314379 /* Default@2x.png */; };
+		476BE2261BEC5A9300314379 /* gaga.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1FB1BEC5A9300314379 /* gaga.jpg */; };
+		476BE2271BEC5A9300314379 /* gem.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1FC1BEC5A9300314379 /* gem.jpeg */; };
+		476BE2281BEC5A9300314379 /* goplay_h.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1FD1BEC5A9300314379 /* goplay_h.png */; };
+		476BE2291BEC5A9300314379 /* goplay_n.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1FE1BEC5A9300314379 /* goplay_n.png */; };
+		476BE22A1BEC5A9300314379 /* Icon-Decoded.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE1FF1BEC5A9300314379 /* Icon-Decoded.png */; };
+		476BE22B1BEC5A9300314379 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE2001BEC5A9300314379 /* Icon.png */; };
+		476BE22C1BEC5A9300314379 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 476BE2011BEC5A9300314379 /* Icon@2x.png */; };
+		476BE22D1BEC5A9300314379 /* jay.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 476BE2021BEC5A9300314379 /* jay.jpg */; };
+		476BE22E1BEC5A9300314379 /* wanglihong.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 476BE2031BEC5A9300314379 /* wanglihong.jpg */; };
+		476BE2341BEC5A9E00314379 /* 多远都要在一起.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 476BE22F1BEC5A9E00314379 /* 多远都要在一起.mp3 */; };
+		476BE2351BEC5A9E00314379 /* 南山南.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 476BE2301BEC5A9E00314379 /* 南山南.mp3 */; };
+		476BE2361BEC5A9E00314379 /* 你不知道的事.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 476BE2311BEC5A9E00314379 /* 你不知道的事.mp3 */; };
+		476BE2371BEC5A9E00314379 /* 七里香.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 476BE2321BEC5A9E00314379 /* 七里香.mp3 */; };
+		476BE2381BEC5A9E00314379 /* Bad Romance.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 476BE2331BEC5A9E00314379 /* Bad Romance.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +96,55 @@
 		476BE1AF1BEC576400314379 /* SwiftUIDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		476BE1B31BEC576400314379 /* SwiftUIDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDemoUITests.swift; sourceTree = "<group>"; };
 		476BE1B51BEC576400314379 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		476BE1C11BEC57EF00314379 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		476BE1D91BEC5A9300314379 /* 专辑图.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "专辑图.jpg"; sourceTree = "<group>"; };
+		476BE1DA1BEC5A9300314379 /* audio_bg_down-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_bg_down-Decoded.png"; sourceTree = "<group>"; };
+		476BE1DB1BEC5A9300314379 /* audio_bg_down@2x-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_bg_down@2x-Decoded.png"; sourceTree = "<group>"; };
+		476BE1DC1BEC5A9300314379 /* audio_bg_up-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_bg_up-Decoded.png"; sourceTree = "<group>"; };
+		476BE1DD1BEC5A9300314379 /* audio_bg_up@2x-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_bg_up@2x-Decoded.png"; sourceTree = "<group>"; };
+		476BE1DE1BEC5A9300314379 /* audio_bg-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_bg-Decoded.png"; sourceTree = "<group>"; };
+		476BE1DF1BEC5A9300314379 /* audio_btn_back_h-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_btn_back_h-Decoded.png"; sourceTree = "<group>"; };
+		476BE1E01BEC5A9300314379 /* audio_btn_back_n-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_btn_back_n-Decoded.png"; sourceTree = "<group>"; };
+		476BE1E11BEC5A9300314379 /* audio_btn_call_hover-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_btn_call_hover-Decoded.png"; sourceTree = "<group>"; };
+		476BE1E21BEC5A9300314379 /* audio_btn_call-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_btn_call-Decoded.png"; sourceTree = "<group>"; };
+		476BE1E31BEC5A9300314379 /* audio_btn_love_h-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_btn_love_h-Decoded.png"; sourceTree = "<group>"; };
+		476BE1E41BEC5A9300314379 /* audio_btn_love-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_btn_love-Decoded.png"; sourceTree = "<group>"; };
+		476BE1E51BEC5A9300314379 /* audio_btn_next_h-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_btn_next_h-Decoded.png"; sourceTree = "<group>"; };
+		476BE1E61BEC5A9300314379 /* audio_btn_next_n-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_btn_next_n-Decoded.png"; sourceTree = "<group>"; };
+		476BE1E71BEC5A9300314379 /* audio_btn_pause_h-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_btn_pause_h-Decoded.png"; sourceTree = "<group>"; };
+		476BE1E81BEC5A9300314379 /* audio_btn_pause_n-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_btn_pause_n-Decoded.png"; sourceTree = "<group>"; };
+		476BE1E91BEC5A9300314379 /* audio_btn_play_h-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_btn_play_h-Decoded.png"; sourceTree = "<group>"; };
+		476BE1EA1BEC5A9300314379 /* audio_btn_play_n-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_btn_play_n-Decoded.png"; sourceTree = "<group>"; };
+		476BE1EB1BEC5A9300314379 /* audio_btn_pre_h-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_btn_pre_h-Decoded.png"; sourceTree = "<group>"; };
+		476BE1EC1BEC5A9300314379 /* audio_btn_pre_n-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_btn_pre_n-Decoded.png"; sourceTree = "<group>"; };
+		476BE1ED1BEC5A9300314379 /* audio_cover_bg-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "audio_cover_bg-Decoded.png"; sourceTree = "<group>"; };
+		476BE1EE1BEC5A9300314379 /* banner_close_btn-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "banner_close_btn-Decoded.png"; sourceTree = "<group>"; };
+		476BE1EF1BEC5A9300314379 /* chenyixun.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chenyixun.jpg; sourceTree = "<group>"; };
+		476BE1F01BEC5A9300314379 /* com_slider_max_l-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "com_slider_max_l-Decoded.png"; sourceTree = "<group>"; };
+		476BE1F11BEC5A9300314379 /* com_slider_max_r-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "com_slider_max_r-Decoded.png"; sourceTree = "<group>"; };
+		476BE1F21BEC5A9300314379 /* com_slider_min_l-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "com_slider_min_l-Decoded.png"; sourceTree = "<group>"; };
+		476BE1F31BEC5A9300314379 /* com_slider_min_r-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "com_slider_min_r-Decoded.png"; sourceTree = "<group>"; };
+		476BE1F41BEC5A9300314379 /* com_thumb_max_h-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "com_thumb_max_h-Decoded.png"; sourceTree = "<group>"; };
+		476BE1F51BEC5A9300314379 /* com_thumb_max_n-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "com_thumb_max_n-Decoded.png"; sourceTree = "<group>"; };
+		476BE1F61BEC5A9300314379 /* Default-568h.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h.png"; sourceTree = "<group>"; };
+		476BE1F71BEC5A9300314379 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		476BE1F81BEC5A9300314379 /* Default-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Decoded.png"; sourceTree = "<group>"; };
+		476BE1F91BEC5A9300314379 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		476BE1FA1BEC5A9300314379 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		476BE1FB1BEC5A9300314379 /* gaga.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gaga.jpg; sourceTree = "<group>"; };
+		476BE1FC1BEC5A9300314379 /* gem.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gem.jpeg; sourceTree = "<group>"; };
+		476BE1FD1BEC5A9300314379 /* goplay_h.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = goplay_h.png; sourceTree = "<group>"; };
+		476BE1FE1BEC5A9300314379 /* goplay_n.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = goplay_n.png; sourceTree = "<group>"; };
+		476BE1FF1BEC5A9300314379 /* Icon-Decoded.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Decoded.png"; sourceTree = "<group>"; };
+		476BE2001BEC5A9300314379 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		476BE2011BEC5A9300314379 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
+		476BE2021BEC5A9300314379 /* jay.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jay.jpg; sourceTree = "<group>"; };
+		476BE2031BEC5A9300314379 /* wanglihong.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wanglihong.jpg; sourceTree = "<group>"; };
+		476BE22F1BEC5A9E00314379 /* 多远都要在一起.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "多远都要在一起.mp3"; sourceTree = "<group>"; };
+		476BE2301BEC5A9E00314379 /* 南山南.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "南山南.mp3"; sourceTree = "<group>"; };
+		476BE2311BEC5A9E00314379 /* 你不知道的事.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "你不知道的事.mp3"; sourceTree = "<group>"; };
+		476BE2321BEC5A9E00314379 /* 七里香.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "七里香.mp3"; sourceTree = "<group>"; };
+		476BE2331BEC5A9E00314379 /* Bad Romance.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Bad Romance.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +152,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				476BE1C21BEC57EF00314379 /* MediaPlayer.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -77,6 +176,7 @@
 		476BE1871BEC576400314379 = {
 			isa = PBXGroup;
 			children = (
+				476BE1C11BEC57EF00314379 /* MediaPlayer.framework */,
 				476BE1921BEC576400314379 /* SwiftUIDemo */,
 				476BE1A71BEC576400314379 /* SwiftUIDemoTests */,
 				476BE1B21BEC576400314379 /* SwiftUIDemoUITests */,
@@ -97,6 +197,8 @@
 		476BE1921BEC576400314379 /* SwiftUIDemo */ = {
 			isa = PBXGroup;
 			children = (
+				476BE1D81BEC5A7800314379 /* QQ音乐 */,
+				476BE1D71BEC5A7600314379 /* 歌曲 */,
 				476BE1931BEC576400314379 /* AppDelegate.swift */,
 				476BE1951BEC576400314379 /* ViewController.swift */,
 				476BE1971BEC576400314379 /* Main.storyboard */,
@@ -123,6 +225,68 @@
 				476BE1B51BEC576400314379 /* Info.plist */,
 			);
 			path = SwiftUIDemoUITests;
+			sourceTree = "<group>";
+		};
+		476BE1D71BEC5A7600314379 /* 歌曲 */ = {
+			isa = PBXGroup;
+			children = (
+				476BE22F1BEC5A9E00314379 /* 多远都要在一起.mp3 */,
+				476BE2301BEC5A9E00314379 /* 南山南.mp3 */,
+				476BE2311BEC5A9E00314379 /* 你不知道的事.mp3 */,
+				476BE2321BEC5A9E00314379 /* 七里香.mp3 */,
+				476BE2331BEC5A9E00314379 /* Bad Romance.mp3 */,
+			);
+			name = "歌曲";
+			sourceTree = "<group>";
+		};
+		476BE1D81BEC5A7800314379 /* QQ音乐 */ = {
+			isa = PBXGroup;
+			children = (
+				476BE1D91BEC5A9300314379 /* 专辑图.jpg */,
+				476BE1DA1BEC5A9300314379 /* audio_bg_down-Decoded.png */,
+				476BE1DB1BEC5A9300314379 /* audio_bg_down@2x-Decoded.png */,
+				476BE1DC1BEC5A9300314379 /* audio_bg_up-Decoded.png */,
+				476BE1DD1BEC5A9300314379 /* audio_bg_up@2x-Decoded.png */,
+				476BE1DE1BEC5A9300314379 /* audio_bg-Decoded.png */,
+				476BE1DF1BEC5A9300314379 /* audio_btn_back_h-Decoded.png */,
+				476BE1E01BEC5A9300314379 /* audio_btn_back_n-Decoded.png */,
+				476BE1E11BEC5A9300314379 /* audio_btn_call_hover-Decoded.png */,
+				476BE1E21BEC5A9300314379 /* audio_btn_call-Decoded.png */,
+				476BE1E31BEC5A9300314379 /* audio_btn_love_h-Decoded.png */,
+				476BE1E41BEC5A9300314379 /* audio_btn_love-Decoded.png */,
+				476BE1E51BEC5A9300314379 /* audio_btn_next_h-Decoded.png */,
+				476BE1E61BEC5A9300314379 /* audio_btn_next_n-Decoded.png */,
+				476BE1E71BEC5A9300314379 /* audio_btn_pause_h-Decoded.png */,
+				476BE1E81BEC5A9300314379 /* audio_btn_pause_n-Decoded.png */,
+				476BE1E91BEC5A9300314379 /* audio_btn_play_h-Decoded.png */,
+				476BE1EA1BEC5A9300314379 /* audio_btn_play_n-Decoded.png */,
+				476BE1EB1BEC5A9300314379 /* audio_btn_pre_h-Decoded.png */,
+				476BE1EC1BEC5A9300314379 /* audio_btn_pre_n-Decoded.png */,
+				476BE1ED1BEC5A9300314379 /* audio_cover_bg-Decoded.png */,
+				476BE1EE1BEC5A9300314379 /* banner_close_btn-Decoded.png */,
+				476BE1EF1BEC5A9300314379 /* chenyixun.jpg */,
+				476BE1F01BEC5A9300314379 /* com_slider_max_l-Decoded.png */,
+				476BE1F11BEC5A9300314379 /* com_slider_max_r-Decoded.png */,
+				476BE1F21BEC5A9300314379 /* com_slider_min_l-Decoded.png */,
+				476BE1F31BEC5A9300314379 /* com_slider_min_r-Decoded.png */,
+				476BE1F41BEC5A9300314379 /* com_thumb_max_h-Decoded.png */,
+				476BE1F51BEC5A9300314379 /* com_thumb_max_n-Decoded.png */,
+				476BE1F61BEC5A9300314379 /* Default-568h.png */,
+				476BE1F71BEC5A9300314379 /* Default-568h@2x.png */,
+				476BE1F81BEC5A9300314379 /* Default-Decoded.png */,
+				476BE1F91BEC5A9300314379 /* Default.png */,
+				476BE1FA1BEC5A9300314379 /* Default@2x.png */,
+				476BE1FB1BEC5A9300314379 /* gaga.jpg */,
+				476BE1FC1BEC5A9300314379 /* gem.jpeg */,
+				476BE1FD1BEC5A9300314379 /* goplay_h.png */,
+				476BE1FE1BEC5A9300314379 /* goplay_n.png */,
+				476BE1FF1BEC5A9300314379 /* Icon-Decoded.png */,
+				476BE2001BEC5A9300314379 /* Icon.png */,
+				476BE2011BEC5A9300314379 /* Icon@2x.png */,
+				476BE2021BEC5A9300314379 /* jay.jpg */,
+				476BE2031BEC5A9300314379 /* wanglihong.jpg */,
+			);
+			name = "QQ音乐";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,8 +393,56 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				476BE21B1BEC5A9300314379 /* com_slider_max_l-Decoded.png in Resources */,
+				476BE21E1BEC5A9300314379 /* com_slider_min_r-Decoded.png in Resources */,
+				476BE2281BEC5A9300314379 /* goplay_h.png in Resources */,
+				476BE2041BEC5A9300314379 /* 专辑图.jpg in Resources */,
+				476BE2151BEC5A9300314379 /* audio_btn_play_n-Decoded.png in Resources */,
+				476BE22C1BEC5A9300314379 /* Icon@2x.png in Resources */,
+				476BE21C1BEC5A9300314379 /* com_slider_max_r-Decoded.png in Resources */,
+				476BE2181BEC5A9300314379 /* audio_cover_bg-Decoded.png in Resources */,
+				476BE2091BEC5A9300314379 /* audio_bg-Decoded.png in Resources */,
+				476BE2341BEC5A9E00314379 /* 多远都要在一起.mp3 in Resources */,
+				476BE2261BEC5A9300314379 /* gaga.jpg in Resources */,
+				476BE20F1BEC5A9300314379 /* audio_btn_love-Decoded.png in Resources */,
+				476BE21A1BEC5A9300314379 /* chenyixun.jpg in Resources */,
+				476BE22D1BEC5A9300314379 /* jay.jpg in Resources */,
+				476BE20C1BEC5A9300314379 /* audio_btn_call_hover-Decoded.png in Resources */,
+				476BE20E1BEC5A9300314379 /* audio_btn_love_h-Decoded.png in Resources */,
+				476BE2051BEC5A9300314379 /* audio_bg_down-Decoded.png in Resources */,
+				476BE2081BEC5A9300314379 /* audio_bg_up@2x-Decoded.png in Resources */,
 				476BE19E1BEC576400314379 /* LaunchScreen.storyboard in Resources */,
+				476BE2381BEC5A9E00314379 /* Bad Romance.mp3 in Resources */,
+				476BE2111BEC5A9300314379 /* audio_btn_next_n-Decoded.png in Resources */,
+				476BE2071BEC5A9300314379 /* audio_bg_up-Decoded.png in Resources */,
+				476BE2231BEC5A9300314379 /* Default-Decoded.png in Resources */,
+				476BE2191BEC5A9300314379 /* banner_close_btn-Decoded.png in Resources */,
+				476BE2361BEC5A9E00314379 /* 你不知道的事.mp3 in Resources */,
+				476BE20B1BEC5A9300314379 /* audio_btn_back_n-Decoded.png in Resources */,
+				476BE2251BEC5A9300314379 /* Default@2x.png in Resources */,
+				476BE2241BEC5A9300314379 /* Default.png in Resources */,
+				476BE22B1BEC5A9300314379 /* Icon.png in Resources */,
+				476BE2061BEC5A9300314379 /* audio_bg_down@2x-Decoded.png in Resources */,
+				476BE2201BEC5A9300314379 /* com_thumb_max_n-Decoded.png in Resources */,
+				476BE2121BEC5A9300314379 /* audio_btn_pause_h-Decoded.png in Resources */,
+				476BE2291BEC5A9300314379 /* goplay_n.png in Resources */,
+				476BE2141BEC5A9300314379 /* audio_btn_play_h-Decoded.png in Resources */,
+				476BE22E1BEC5A9300314379 /* wanglihong.jpg in Resources */,
+				476BE2271BEC5A9300314379 /* gem.jpeg in Resources */,
+				476BE2211BEC5A9300314379 /* Default-568h.png in Resources */,
+				476BE2161BEC5A9300314379 /* audio_btn_pre_h-Decoded.png in Resources */,
+				476BE2351BEC5A9E00314379 /* 南山南.mp3 in Resources */,
+				476BE21F1BEC5A9300314379 /* com_thumb_max_h-Decoded.png in Resources */,
+				476BE2221BEC5A9300314379 /* Default-568h@2x.png in Resources */,
 				476BE19B1BEC576400314379 /* Assets.xcassets in Resources */,
+				476BE20A1BEC5A9300314379 /* audio_btn_back_h-Decoded.png in Resources */,
+				476BE2131BEC5A9300314379 /* audio_btn_pause_n-Decoded.png in Resources */,
+				476BE20D1BEC5A9300314379 /* audio_btn_call-Decoded.png in Resources */,
+				476BE21D1BEC5A9300314379 /* com_slider_min_l-Decoded.png in Resources */,
+				476BE2171BEC5A9300314379 /* audio_btn_pre_n-Decoded.png in Resources */,
+				476BE22A1BEC5A9300314379 /* Icon-Decoded.png in Resources */,
+				476BE2371BEC5A9E00314379 /* 七里香.mp3 in Resources */,
+				476BE2101BEC5A9300314379 /* audio_btn_next_h-Decoded.png in Resources */,
 				476BE1991BEC576400314379 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
